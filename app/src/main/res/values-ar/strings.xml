@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FancyScreen</string>
+    <string name="email">بريد إلكتروني</string>
+    <string name="department">قسم</string>
+    <string name="direct_reports">التقارير المباشرة</string>
+    <string name="extension">امتداد</string>
+    <string name="supervisor">مشرف</string>
+</resources>
